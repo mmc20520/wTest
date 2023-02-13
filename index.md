@@ -1,5 +1,57 @@
 We publish the wTest tool and the evaluation results in this page.
 
+# Subjects 
+* Open-source apps ([download](https://drive.google.com/file/d/17z3wME2gZZXKA5nPluKDY7HsuD8yWstg/view?usp=share_link))
+
+The following table lists the 44 open-source Android apps used in our evaluation.
+
+| Index | Package | Index | Package |
+| --- | --- | --- | --- | 
+| 1 | ch.admin.bag.covidcertificate.wallet | 23 | com.foobnix.pro.pdf.reader |
+| 2 | info.plateaukao.einkbro | 24 | org.quantumbadger.redreader |
+| 3 | ch.rmy.android.http_shortcuts | 25 | com.gelakinetic.mtgfam |
+| 4 | io.github.wulkanowy | 26 | org.schabi.newpipe |
+| 5 | com.activitymanager | 27 | com.gianlu.aria2app |
+| 6 | me.ccrama.redditslide | 28 | org.secuso.privacyfriendlyweather |
+| 7 | com.amaze.filemanager | 29 | com.github.doomsdayrs.apps.shosetsu.debug |
+| 8 | ml.docilealligator.infinityforreddit | 30 | org.softeg.slartus.forpdaplus |
+| 9 | com.boardgamegeek | 31 | com.github.k1rakishou.chan |
+| 10 | net.bible.android.activity | 32 | org.wikipedia |
+| 11 | com.cookiegames.smartcookie | 33 | com.ichi2.anki |
+| 12 | net.cyclestreets | 34 | org.woheller69.weather |
+| 13 | com.dar.nclientv2 | 35 | com.joshuacerdenia.android.nicefeed |
+| 14 | org.andstatus.app | 36 | com.manimarank.spell4wiki |
+| 15 | com.ds.avare | 37 | com.nutomic.syncthingandroid |
+| 16 | org.catrobat.paintroid | 38 | com.perflyst.twire |
+| 17 | com.duckduckgo.mobile.android | 39 | com.tachibana.downloader |
+| 18 | org.commonvoice.saverio | 40 | cz.martykan.forecastie |
+| 19 | com.farmerbb.notepad | 41 | de.blau.android |
+| 20 | org.koitharu.kotatsu | 42 | de.danoeh.antennapod |
+| 21 | com.flxrs.dankchat | 43 | de.freehamburger |
+| 22 | org.openhab.habdroid | 44 | de.westnordost.streetcomplete |
+
+* Closed-source apps ([download](https://drive.google.com/file/d/1A6F6VyUPszSKrqmY3bYlp7mwPQAxC4lC/view?usp=share_link))
+
+The following table lists the 30 closed-source Android apps used in our evaluation.
+
+| Index | Package | Index | Package |
+| --- | --- | --- | --- | 
+| 1 | com.anydesk.anydeskandroid | 16 | com.til.timesnews |
+| 2 | com.atomczak.notepat | 17 | com.trovit.android.apps.cars |
+| 3 | com.bagatrix.mathway.android | 18 | com.usps |
+| 4 | com.bestweatherfor.bibleoffline_pt_ra | 19 | com.waveline.nabd |
+| 5 | com.cricbuzz.android | 20 | com.xb.topnews |
+| 6 | com.cricbuzz.android.vernacular | 21 | com.xiaomi.midrop |
+| 7 | com.indeed.android.jobsearch | 22 | com.yahoo.mobile.client.android.weather |
+| 8 | com.marvel.comics | 23 | de.mobile.android.app |
+| 9 | com.mobilefootie.wc2010 | 24 | es.roid.and.trovit |
+| 10 | com.naver.linewebtoon | 25 | jp.co.jorudan.nrkj |
+| 11 | com.ne.hdv | 26 | jp.hotpepper.android.beauty.hair |
+| 12 | com.playit.videoplayer | 27 | livio.pack.lang.en_US |
+| 13 | com.pulselive.bcci.android | 28 | ru.litres.android |
+| 14 | com.sec.app.samsungprintservice | 29 | teamDoppelGanger.SmarterSubway |
+| 15 | com.shopping.limeroad | 30 | com.pl.premierleague |
+
 # Tool
 Our tool is composed of 2 parts. The first part instruments an Android app. The second part generates tests for the instrumented app. But before testing an app, a customized Android OS needs to be loaded by Android emulators or real devices.
 
