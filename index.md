@@ -105,11 +105,15 @@ The following table lists the 30 closed-source Android apps used in our evaluati
 * cs-bug7 (com.pl.premierleague)
 <img width="887" alt="Screen Shot 2023-02-17 at 11 58 16 PM" src="https://user-images.githubusercontent.com/100833575/219703027-631d68e7-f58d-4556-9a4e-83501f852737.png">
 
-* cs-bug8
-* cs-bug9
-* cs-bug10
-* cs-bug11
-* cs-bug12
+* cs-bug8 (com.sec.app.samsungprintservice)
+<img width="1109" alt="Screen Shot 2023-02-18 at 12 19 49 AM" src="https://user-images.githubusercontent.com/100833575/219707956-7f31eaa6-578a-46f4-a9c6-cb5a529015d4.png">
+
+* cs-bug9 (com.marvel.comics)
+<img width="925" alt="Screen Shot 2023-02-18 at 12 24 20 AM" src="https://user-images.githubusercontent.com/100833575/219708833-450543e2-e0b1-4394-a631-6d2587049f81.png">
+
+* cs-bug10 (com.anydesk.anydeskandroid)
+* cs-bug11 (ru.litres.android)
+* cs-bug12 (ru.litres.android)
 
 
 # Tool
