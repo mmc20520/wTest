@@ -52,6 +52,10 @@ The following table lists the 30 closed-source Android apps used in our evaluati
 | 14 | com.sec.app.samsungprintservice | 29 | teamDoppelGanger.SmarterSubway |
 | 15 | com.shopping.limeroad | 30 | com.pl.premierleague |
 
+# Coverage results
+* WebView-specific property coverage, WebView API call site coverage, and code coverage for open-source apps ([link](https://docs.google.com/spreadsheets/d/1ZR9tmBmBe9_STSxSg4Jq5ZFyQ7lFMaqic6CXXYr5oVs/edit?usp=sharing))
+* WebView-specific property coverage, WebView API call site coverage, and code coverage for closed-source apps ([link](https://docs.google.com/spreadsheets/d/1ZjF1JXwcztILkmoyKNp7X0JjZetgUzFItLUtoFvS17Q/edit?usp=sharing))
+
 # Tool
 Our tool is composed of 2 parts. The first part instruments an Android app. The second part generates tests for the instrumented app. But before testing an app, a customized Android OS needs to be loaded by Android emulators or real devices.
 
