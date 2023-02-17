@@ -56,6 +56,32 @@ The following table lists the 30 closed-source Android apps used in our evaluati
 * WebView-specific property coverage, WebView API call site coverage, and code coverage for open-source apps ([link](https://docs.google.com/spreadsheets/d/1ZR9tmBmBe9_STSxSg4Jq5ZFyQ7lFMaqic6CXXYr5oVs/edit?usp=sharing))
 * WebView-specific property coverage, WebView API call site coverage, and code coverage for closed-source apps ([link](https://docs.google.com/spreadsheets/d/1ZjF1JXwcztILkmoyKNp7X0JjZetgUzFItLUtoFvS17Q/edit?usp=sharing))
 
+# Detected bugs
+
+* os-bug1 ([link](https://github.com/Docile-Alligator/Infinity-For-Reddit/issues/1368))
+* os-bug2 ([link](https://github.com/ankidroid/Anki-Android/issues/13230))
+* os-bug3 ([link](https://github.com/MarcusWolschon/osmeditor4android/issues/2123))
+* os-bug4 ([link](https://github.com/SecUSo/privacy-friendly-weather/issues/208))
+* os-bug5 ([link](https://github.com/SecUSo/privacy-friendly-weather/issues/207))
+* os-bug6 ([link](https://github.com/flex3r/DankChat/issues/238))
+* os-bug7 ([link](https://github.com/nv95/Kotatsu/issues/119))
+* os-bug8 ([link](https://github.com/sdex/ActivityManager/issues/4))
+* os-bug9 ([link](https://github.com/ccomeaux/boardgamegeek4android/issues/181))
+* os-bug10 ([link](https://github.com/openhab/openhab-android/issues/2845))
+* os-bug11 ([link](https://github.com/MarcusWolschon/osmeditor4android/issues/1568))
+* os-bug12 ([link](https://github.com/Docile-Alligator/Infinity-For-Reddit/issues/683))
+* os-bug13 ([link](https://github.com/Dar9586/NClientV2/issues/548))
+* os-bug14 ([link](https://github.com/shosetsuorg/shosetsu/issues/183))
+* os-bug15 ([link](https://github.com/apps4av/avare/issues/444))
+* os-bug16 ([link](https://github.com/andstatus/andstatus/issues/551))
+* os-bug17 ([link](https://github.com/andstatus/andstatus/issues/552))
+* os-bug18 ([link](https://github.com/cyclestreets/android/issues/504))
+* os-bug19 ([link](https://github.com/joshuacerdenia/NiceFeed/issues/48))
+* os-bug20 ([link](https://github.com/Waboodoo/HTTP-Shortcuts/issues/264))
+* os-bug21 ([link](https://github.com/Waboodoo/HTTP-Shortcuts/issues/261))
+* os-bug22 ([link](https://github.com/livodeu/FreeHamburger/issues/1))
+
+
 # Tool
 Our tool is composed of 2 parts. The first part instruments an Android app. The second part generates tests for the instrumented app. But before testing an app, a customized Android OS needs to be loaded by Android emulators or real devices.
 
