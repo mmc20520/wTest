@@ -112,8 +112,14 @@ The following table lists the 30 closed-source Android apps used in our evaluati
 <img width="925" alt="Screen Shot 2023-02-18 at 12 24 20 AM" src="https://user-images.githubusercontent.com/100833575/219708833-450543e2-e0b1-4394-a631-6d2587049f81.png">
 
 * cs-bug10 (com.anydesk.anydeskandroid)
+<img width="748" alt="Screen Shot 2023-02-18 at 12 27 44 AM" src="https://user-images.githubusercontent.com/100833575/219709665-0aeb2312-f3b0-44b5-af3e-62ff256ddad5.png">
+
 * cs-bug11 (ru.litres.android)
+![Screen Shot 2023-02-18 at 12 32 11 AM](https://user-images.githubusercontent.com/100833575/219710558-161a93bc-8272-4524-ada3-b9222f43fb4d.png)
+
 * cs-bug12 (ru.litres.android)
+<img width="895" alt="Screen Shot 2023-02-18 at 12 33 53 AM" src="https://user-images.githubusercontent.com/100833575/219711059-8c810166-2f58-422a-825a-325bd31ab86b.png">
+
 
 
 # Tool
