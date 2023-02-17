@@ -84,8 +84,12 @@ The following table lists the 30 closed-source Android apps used in our evaluati
 * os-bug24 (org.catrobat.paintroid)
  <img width="833" alt="Screen Shot 2023-02-17 at 10 25 20 PM" src="https://user-images.githubusercontent.com/100833575/219681360-04107e44-6e4e-4190-95d3-5165f2a4a64c.png">
  
-* cs-bug1
+* cs-bug1 (com.atomczak.notepat)
+<img width="742" alt="Screen Shot 2023-02-17 at 11 12 57 PM" src="https://user-images.githubusercontent.com/100833575/219692542-264ac487-f9aa-4df4-b7af-61d8649f2629.png">
+
 * cs-bug2
+<img width="741" alt="Screen Shot 2023-02-17 at 11 15 14 PM" src="https://user-images.githubusercontent.com/100833575/219693173-6729982c-8110-417b-a2b9-ac87e4bd9a1a.png">
+
 * cs-bug3
 * cs-bug4
 * cs-bug5
