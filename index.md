@@ -96,9 +96,15 @@ The following table lists the 30 closed-source Android apps used in our evaluati
 * cs-bug4 (com.usps)
 <img width="754" alt="Screen Shot 2023-02-17 at 11 25 33 PM" src="https://user-images.githubusercontent.com/100833575/219695402-04a48e6d-341b-410a-9c92-c395073f54e7.png">
 
-* cs-bug5
-* cs-bug6
-* cs-bug7
+* cs-bug5 (com.bestweatherfor.bibleoffline_pt_ra)
+<img width="791" alt="Screen Shot 2023-02-17 at 11 50 05 PM" src="https://user-images.githubusercontent.com/100833575/219701213-e158b17e-870f-429e-85f6-1606fdf8b6ea.png">
+
+* cs-bug6 (com.pl.premierleague)
+<img width="792" alt="Screen Shot 2023-02-17 at 11 53 46 PM" src="https://user-images.githubusercontent.com/100833575/219701993-f6ade9ac-0135-42bb-a6b1-6eb6e099c517.png">
+
+* cs-bug7 (com.pl.premierleague)
+<img width="887" alt="Screen Shot 2023-02-17 at 11 58 16 PM" src="https://user-images.githubusercontent.com/100833575/219703027-631d68e7-f58d-4556-9a4e-83501f852737.png">
+
 * cs-bug8
 * cs-bug9
 * cs-bug10
