@@ -76,10 +76,26 @@ The following table lists the 30 closed-source Android apps used in our evaluati
 * os-bug16 ([link](https://github.com/andstatus/andstatus/issues/551))
 * os-bug17 ([link](https://github.com/andstatus/andstatus/issues/552))
 * os-bug18 ([link](https://github.com/cyclestreets/android/issues/504))
-* os-bug19 ([link](https://github.com/joshuacerdenia/NiceFeed/issues/48))
-* os-bug20 ([link](https://github.com/Waboodoo/HTTP-Shortcuts/issues/264))
-* os-bug21 ([link](https://github.com/Waboodoo/HTTP-Shortcuts/issues/261))
-* os-bug22 ([link](https://github.com/livodeu/FreeHamburger/issues/1))
+* os-bug19 ([link](https://github.com/cyclestreets/android/issues/504))
+* os-bug20 ([link](https://github.com/joshuacerdenia/NiceFeed/issues/48))
+* os-bug21 ([link](https://github.com/Waboodoo/HTTP-Shortcuts/issues/264))
+* os-bug22 ([link](https://github.com/Waboodoo/HTTP-Shortcuts/issues/261))
+* os-bug23 ([link](https://github.com/livodeu/FreeHamburger/issues/1))
+* os-bug24 (org.catrobat.paintroid)
+ <img width="833" alt="Screen Shot 2023-02-17 at 10 25 20 PM" src="https://user-images.githubusercontent.com/100833575/219681360-04107e44-6e4e-4190-95d3-5165f2a4a64c.png">
+ 
+* cs-bug1
+* cs-bug2
+* cs-bug3
+* cs-bug4
+* cs-bug5
+* cs-bug6
+* cs-bug7
+* cs-bug8
+* cs-bug9
+* cs-bug10
+* cs-bug11
+* cs-bug12
 
 
 # Tool
