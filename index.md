@@ -127,7 +127,7 @@ Our tool is composed of 2 parts. The first part instruments an Android app. The 
 
 ## Customized Android OS
 The instrumented app needs to run on a customized Android system because we add one more ID field in `java.lang.Object` in order to ease the variable tracking. It is very simple to use our customized Android system image, you just need to follow the following 2 steps
-* Download our customized [system.img](), [ramdisk.img](), [VerifiedBootParams.textproto]() (They are for Android 10)
+* Download our customized [system.img](https://drive.google.com/file/d/1K4_3TDcAYvzyoeVxSDTUEd3SFQxGDwk9/view?usp=share_link), [ramdisk.img](https://drive.google.com/file/d/1AbVckf1BeDMSNUppyyjhZj-IqUh4OhrW/view?usp=share_link), [VerifiedBootParams.textproto](https://drive.google.com/file/d/1PSJi8xJnUG6SRXpV3K--xg9ZoPCnoL41/view?usp=share_link) (They are for Android 10)
 * Replace the original `system.img`, `ramdisk.img`, `VerifiedBootParams.textproto` in your Android SDK with the downloaded files
 
 Usually, these files are placed under `<Android_SDK_Root>/system-images/android-29/google_apis/x86`
