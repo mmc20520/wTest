@@ -145,7 +145,7 @@ Once you have finished the above two steps, you can try to start the Android emu
 * Run `sh instrument.sh APP_FOLDER APP_PACKAGE_NAME PORT_NUM APP_TYPE` to instrument an app. `APP_TYPE` can be `OPEN_SOURCE` or `CLOSE_SOURCE`. `PORT_NUM` is a port used by the instrumented app to communicate with a nodejs server to instrument dynamically-loaded JavaScript code. It is recommended to be set as 3016, 3018, 3020, ..., etc. An example command can be `sh instrument.sh apps/org.wikipedia org.wikipedia 3016 OPEN_SOURCE`).
 * When instrumentation finishes, you can see an `output` folder under the `APP_FOLDER`. The apk file whose name ends with `-aligned-debugSigned.apk` is the instrumented apk.
 
-## Test generation (wTest) ([download]())
+## Test generation (wTest) ([download](https://drive.google.com/file/d/1kWmDeNJKb3TT5T-diWjPQNvyp9R2plj2/view?usp=share_link))
 ### requirements
 * `export JAVA_HOME=YOUR_JAVA_HOME` (example: `export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/`)
 * `export ANDROID_HOME=YOUR_ANDROID_HOME` (example: `export ANDROID_HOME=/Library/Android/sdk`)
